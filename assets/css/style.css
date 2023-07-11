@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
+
+
+.top-bar{
+    height: 55px;
+    width:100%;
+    background-color: #e90000;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+.top-left{
+    position: relative;
+    width:48px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.top-left-box {
+    display: flex;
+    align-items: center;
+    font-family: "oswald", sans-serif;
+    font-size: 90%;
+    font-weight: 300;
+    list-style-type: none; 
+    letter-spacing: 3px;
+    height: 45px;
+    color: #fafafa;
+} 
+
+.top-left-box li + li {
+    margin-left: 47px ;
+}
+
+.top-left-box i {
+    padding-right: 15px;
+}
+
+.top-right {
+    position: relative;
+    width:48px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.top-right-box {
+    display: flex;
+    align-items: center;
+    height: 49px;
+    justify-content: flex-end;
+    padding-right: 40px;
+    text-decoration: none
+}
+.top-right-box a {
+    height: 35px;
+    width: 75px;
+    padding:5px;
+    text-decoration: none;
+    
+}
+
+.top-right-box span:hover{
+    background-color: #d98c8c;
+}
+
+.top-right-box span {
+    border: 1px solid #fafafa;
+    font-family: "oswald", sans-serif;
+    text-align: center;
+    font-size: 90%;
+    font-weight: 300 bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fafafa;
+    padding: 5px 10px;
+}
+
+/*header*/
+
+.row-1{
+    height: 170px;
+    width: 100%;
+    margin-top: 0;
+    overflow: hidden;
+    box-shadow: 0 0.01rem 1rem 0.5rem rgba(0,0,0,.2);
+    border: 0.2px #cac9c9;
+
+}
+
+h3 {
+    font-family: "oswald", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #070055; 
+}
+    
+#logo{
+    float: left;
+    font-size: 280%;
+    margin-left: 70px;
+    height: 87px;
+    width: 170px;
+    padding: 6px;
+    text-align: center;
+    border: 3.5px solid #000000;
+    margin-top: 42px;
+}
+    
+
+#menu {
+    line-height: 65px;
+}
+    
+#menu {
+    font-family: "oswald", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    list-style-type: none; 
+    letter-spacing: 3px;
+}
+    
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
+    
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+    
+#menu a:hover {
+    text-shadow: 0.04em 0.04em #000000;
+}
+    
+#menu .active {
+    border-bottom: 2px solid #777777;
+    font-weight: bold;
+    text-shadow: none;
+}
+     
+/**section** 1/
+/**contact us title**/
+.row-2{
+    width: 100%;
+    margin: 1.5rem 0 3rem 0;
+}
+
+.page-title {
+    font-family: "oswald", sans-serif;
+    font-weight: 300;
+    font-size: 400%;
+    color: #2e2e2e;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    
+}
+
+/**contact us info**/
+ .container{
+    width: 100%;
+}
+
+.container-items{
+    height: 320px;
+    padding: 28px 0 10px 0;
+    border: 0.2px #cac9c9;
+    border-radius: 12px;
+    box-shadow: 0 0.2rem 1rem 0.5rem rgba(0,0,0,.2);
+}
+
+.row-3a{
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.info-items {
+    max-width: 30% ;
+    display: inline-block;
+    align-items: center;
+    font-family: "oswald", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    
+}
+
+.info-address,.info-email,.info-phone{
+    height: 260px;
+    text-align: center;
+    
+}
+
+.info-address{
+    position: relative;
+    left: 30px
+}
+
+.info-email{
+    position: relative;
+    right: 30px ;
+    
+}
+.info-items i {
+    font-size: 50px;
+    display: inline-block;
+    margin: 60px 0 25px 0;
+    text-shadow: 0.01em 0.06em 0.02em #2b262670;
+}
+
+
+.info-items p {
+    margin: 0 auto
+}
+
+/**section** 2/
+/**contact us form**/
+
+.container-fluid{
+    box-shadow: 0 0.01rem 1rem 0.5rem rgba(0,0,0,.2);
+    width:100%;
+    border: 0.2px #cac9c9;
+}
+
+.contact-form-heading {
+    font-family: "oswald", sans-serif;
+    font-weight: 400 bold;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px ;
+}
+
+.contact-form-subheading {
+    font-family: "oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+input#fullname.form-control,input#email.form-control {
+    display: inline;
+    width: 49%;
+
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+input#fullname.form-control {
+    margin-right: 10px;
+}
+
+
+button[type="submit"] {
+    margin: 15px 0 40px 0;
+    padding: 6px 8px 10px 8px ;
+    color: #fafafa;
+    background-color: #e90000;
+    font-family: "oswald", sans-serif;
+    font-weight: 300;
+}
+
+
+/*footer*/
+
+.footer {
+    overflow: hidden;
+    background-color: #09004b;
+}
+
+.footer-content{
+    padding: 35px 0;
+}
+
+.footer-about{
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fafafa;
+}
+
+.footer-about-text{
+    font-family: "oswald", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.bottom-bar{
+    height: 100px;
+    width: 100%;
+    background-color: #e90000;
+    padding: 35px 0;
+    box-shadow: inset 0.01rem 1rem 0.5rem rgba(0,0,0,.2);
+}
+
+.bottom-box {
+    width: 95%;
+    height:50px;
+    margin: 0 auto;
+    
+}
+
+.justify-content-between {
+    justify-content: space-between!important;
+}
+
+.row-6a {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.footer .bottom-bar .bottom-box{
+    font-family: "oswald", sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 45px;
+    color: #fafafa;
+}
+.col-md-6 {
+    width: 50%;
+    padding: 0 12px;
+    margin: 0;
+}
+
+.text-right{
+    text-align: right;
+}
+
+ .bottom-box .socials a {
+    letter-spacing: 3px;
+ }
+ 
+.footer .bottom-box .socials a {
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #e45252;
+    border-radius: 50%; 
+    line-height: 7px;
+    color: #fafafa;
+    text-decoration: none;
+   
+}
+
+.footer .bottom-box .socials i {
+    padding: 11px;
+    border-radius: 50%; 
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    transition: all .4s ease-in-out;
+}
+
+.bottom-box .socials a i:hover {
+    background-color: #d98c8c;
+
+}
+
+
+
