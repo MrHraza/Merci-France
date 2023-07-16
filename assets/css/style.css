@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
 
-
+/* top red strip about 'header' */
 .top-bar{
     height: 55px;
     width:100%;
@@ -34,45 +34,6 @@
 
 .top-left-box i {
     padding-right: 15px;
-}
-
-.top-right {
-    position: relative;
-    width:48px;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
-.top-right-box {
-    display: flex;
-    align-items: center;
-    height: 49px;
-    justify-content: flex-end;
-    padding-right: 40px;
-    text-decoration: none
-}
-.top-right-box a {
-    height: 35px;
-    width: 75px;
-    padding:5px;
-    text-decoration: none;
-    
-}
-
-.top-right-box span:hover{
-    background-color: #d98c8c;
-}
-
-.top-right-box span {
-    border: 1px solid #fafafa;
-    font-family: "oswald", sans-serif;
-    text-align: center;
-    font-size: 90%;
-    font-weight: 300 bold;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #fafafa;
-    padding: 5px 10px;
 }
 
 /*header*/
@@ -139,8 +100,16 @@ h3 {
     font-weight: bold;
     text-shadow: none;
 }
-     
-/**section** 1/
+
+/**section 1 ** index.html/
+/**carousel**/
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+/**section 1** contactus.html/
 /**contact us title**/
 .row-2{
     width: 100%;
@@ -159,7 +128,7 @@ h3 {
     
 }
 
-/**contact us info**/
+/**contact us info - contactus.html**/
  .container{
     width: 100%;
 }
@@ -219,8 +188,8 @@ h3 {
     margin: 0 auto
 }
 
-/**section** 2/
-/**contact us form**/
+/**section** (2)/
+/**contact us form - contactus.html**/
 
 .container-fluid{
     box-shadow: 0 0.01rem 1rem 0.5rem rgba(0,0,0,.2);
@@ -272,7 +241,7 @@ button[type="submit"] {
 }
 
 
-/*footer*/
+/*footer all pages*/
 
 .footer {
     overflow: hidden;
@@ -294,6 +263,11 @@ button[type="submit"] {
     font-family: "oswald", sans-serif;
     font-weight: 300;
     color: #fafafa;
+}
+
+button[type="button"] {
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
 }
 
 .bottom-bar{
