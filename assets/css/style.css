@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
 
 /* top red strip above 'header' */
-
 .top-bar{
     height: 55px;
     width:100%;
@@ -187,7 +186,7 @@ section .download-box{
     position: relative;
     top: 180px;
     left: 30px;
-    margin: 0
+    margin: 0 auto;
 }
 
 .download-subheading{
@@ -198,7 +197,7 @@ section .download-box{
     position: relative;
     top: 195px;
     left:30px;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .btn-download{
@@ -350,7 +349,7 @@ button[type="submit"] {
     color: #fafafa;
     max-width: 700px;
     position: absolute;
-    top: 78%;
+    top: 74%;
     left: 52%;
     align-items:  center;
     padding: 30px;
@@ -510,5 +509,225 @@ button[type="button"] {
 
 .bottom-box .socials a i:hover {
     background-color: #d98c8c;
+}
+
+/* responsive bits, small snippets from !all pages that needed adjusting */
+
+@media screen and (max-width: 1024px){
+
+    .page-title {
+        font-family: "oswald", sans-serif;
+        font-weight: 300;
+        font-size: 300%;
+        color: #2e2e2e;
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 4px; 
+    }
+
+    .discover-box{
+        height: 815px;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        box-shadow: 0rem 0rem 1rem 0.5rem rgba(0,0,0,0.1);
+        border-radius: 12px;
+        margin-bottom: 60px;
+    }
+
+    .discover-item{
+        max-width: 45% ;
+        display: inline-block;
+        height: 250px;
+        border: 2.5px groove;
+        border-radius: 6px;
+        margin: 6px;
+        font-family: "oswald", sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        letter-spacing: 3px;
+        vertical-align: bottom;
+        padding: 0;
+        background-color: #fafafa;
+    }
+    
+    .discover-item p{
+        width: 100%;
+    }
+    
+    section .main-content i {
+        font-size: 70px;
+        color: #000000;
+        text-align: center;
+        position: relative;
+        top: 50px;
+        text-shadow: 0.01em 0.01em 0.02em #000000;
+    }
+
+    .container-items{
+        display: none;
+    }
+    
+    .center-form {
+        display: inline;
+        padding-top: 10px;
+        margin: 0 auto;
+        max-width: 70%;
+    }
+
+    .signup-form {
+        color: #fafafa;
+        max-width: 700px;
+        position: absolute;
+        top: 90%;
+        left: 46%;
+        align-items:  center;
+        padding: 30px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 943px){
+
+    #menu{
+        clear: left;
+        float: left;
+        margin-top: 10px;
+        margin-left: 30px; 
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    .page-title {
+        font-family: "oswald", sans-serif;
+        font-weight: 300;
+        font-size: 250%;
+        color: #2e2e2e;
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 4px; 
+    }
+
+    .discover-box{
+        height: 658px;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        box-shadow: 0rem 0rem 1rem 0.5rem rgba(0,0,0,0.1);
+        border-radius: 12px;
+        margin-bottom: 60px;
+    }
+
+    .discover-item{
+        max-width: 45% ;
+        display: inline-block;
+        height: 200px;
+        border: 2.5px groove;
+        border-radius: 6px;
+        margin: 6px;
+        font-family: "oswald", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 3px;
+        vertical-align: bottom;
+        padding: 0;
+        background-color: #fafafa;
+    }
+    
+    .discover-item p{
+        width: 100%;
+    }
+    
+    section .main-content i {
+        font-size: 40px;
+        color: #000000;
+        text-align: center;
+        position: relative;
+        top: 50px;
+        text-shadow: 0.01em 0.01em 0.02em #000000;
+    }
+    
+    .download-image{
+        visibility: hidden;
+        height: 0px;
+    }
+
+    .download-box{
+        padding: 0px;
+    }
+    
+    .download-text{
+        padding: 10px;
+    }
+
+    .download-heading{
+        font-family: "oswald", sans-serif;
+        text-transform: uppercase;
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        position: relative;
+        top: 60px;
+        width: 100%;
+    }
+    
+    .download-subheading{
+        font-family: "oswald", sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        text-align: center;
+        position: relative;
+        top: 70px;
+        margin: 0 auto;
+    }
+    
+    .btn-download{
+        text-align: center;
+        position: relative;
+        top: 110px;
+    }
+
+    .download-app{
+        text-align: center;
+        height: 350px;
+        padding: 0 50px 0 0;
+        margin: 0 auto;
+    }
+
+    img{
+        display:none;
+    }
+
+    input#fullname.form-control {
+        margin-right: 0px;
+    }
+
+    .center-form {
+        display: inline;
+        padding-top: 10px;
+        margin: 0 auto;
+        max-width: 70%;
+    }
+
+    .signup-form {
+        color: #fafafa;
+        max-width: 700px;
+        position: absolute;
+        top: 75%;
+        left: 5%;
+        align-items:  center;
+        padding: 30px;
+        text-align: center;
+    }
+
+
+/* footer copyright text */
+    .text-left{
+        text-align: left;
+        font-size: small;
+    }
+    
 }
 
