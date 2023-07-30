@@ -79,7 +79,6 @@ h3 {
     height: 100%;
   }
 
-
 /** home.html**/  
 /**home-title**/
 .home-title-box{
@@ -94,13 +93,27 @@ h3 {
 }
 
 .discover-box{
-    height: 650px;
     width: 100%;
     text-align: center;
     padding: 10px;
     box-shadow: 0rem 0rem 1rem 0.5rem rgba(0,0,0,0.1);
     border-radius: 12px;
     margin-bottom: 60px;
+}
+
+.discover-item::before {
+    position: absolute;
+    content: 'Coming Soon!';
+    right: -1px;
+    top: -2px;
+    width: calc(100% + 2.25px);
+    background: #e90000;
+    color: #fafafa;
+    height: 25px;
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 700;
+    border-radius: 6px 6px 0 0;
 }
 
 .discover-item{
@@ -201,6 +214,7 @@ section .download-box{
 }
 
 .btn-download{
+    font-family: "oswald", sans-serif;
     text-align: center;
     position: relative;
     top: 240px;
@@ -338,7 +352,7 @@ button[type="submit"] {
 /* Form */
 
 .form-section {
-    background: url("../images/french\ food\ 1.jpg");
+    background: url("../images/french-food.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -346,7 +360,8 @@ button[type="submit"] {
 }
 
 .signup-form {
-    color: #fafafa;
+    backdrop-filter: blur(4px) ;
+    color: #09004b;
     max-width: 700px;
     position: absolute;
     top: 74%;
@@ -357,9 +372,8 @@ button[type="submit"] {
 }
 
 .signup-form > h3 {
-    color: #fafafa;
+    color: #09004b;
     margin-bottom: 20px;
-    text-shadow: 0.00em 0.00em 0.03em #000000;
 }
 
 .text-input {
@@ -367,15 +381,14 @@ button[type="submit"] {
     font-size: 18px;
     text-align: center;
     background: transparent;
-    color: #fafafa;
+    color: #09004b;
     width: 60%;
     height: 35px;
     margin: 0 auto;
-    border: 1px solid #fafafa;
+    border: 1px solid #09004b;
     border-radius: 4px;
     letter-spacing: 2px;
     display: block;
-    text-shadow: 0.00em 0.00em 0.03em #000000;
 }
 
 .text-label{
@@ -384,7 +397,6 @@ button[type="submit"] {
     font-size: 20px;
     letter-spacing: 2px;
     margin: 15px 0 15px 0;
-    text-shadow: 0.00em 0.00em 0.03em #000000;
 }
 
 .signup-btn {
@@ -395,7 +407,7 @@ button[type="submit"] {
     padding: 14px 32px 16px 32px;
     text-align: center;
     font-size: 20px;
-    background-color: #e90000;
+    background-color:#09004b;
     color: #fafafa;
     display: inline-block;
     letter-spacing: 2px;
@@ -403,7 +415,8 @@ button[type="submit"] {
 
 .signup-btn:hover {
     background-color: #fafafa;
-    color: #e90000;
+    color: #09004b;
+    box-shadow: inset 0.0rem 0.0rem 1rem rgba(0,0,0,0.15);
 }
 
 
@@ -481,7 +494,7 @@ button[type="button"] {
     text-align: right;
 }
 
- .bottom-box .socials a {
+.bottom-box .socials a {
     letter-spacing: 3px;
 }
  
@@ -527,7 +540,6 @@ button[type="button"] {
     }
 
     .discover-box{
-        height: 815px;
         width: 100%;
         text-align: center;
         padding: 10px;
@@ -599,6 +611,11 @@ button[type="button"] {
         line-height: 25px;
     }
 
+    .hide-mobile{
+        display:none;
+    }
+
+
     .page-title {
         font-family: "oswald", sans-serif;
         font-weight: 300;
@@ -611,7 +628,6 @@ button[type="button"] {
     }
 
     .discover-box{
-        height: 658px;
         width: 100%;
         text-align: center;
         padding: 10px;
@@ -669,7 +685,7 @@ button[type="button"] {
         font-weight: bold;
         text-align: center;
         position: relative;
-        top: 60px;
+        top: 70px;
         width: 100%;
     }
     
@@ -679,25 +695,21 @@ button[type="button"] {
         font-weight: 300;
         text-align: center;
         position: relative;
-        top: 70px;
+        top: 90px;
         margin: 0 auto;
     }
     
     .btn-download{
         text-align: center;
         position: relative;
-        top: 110px;
+        top: 130px;
     }
 
     .download-app{
         text-align: center;
-        height: 350px;
+        height: 450px;
         padding: 0 50px 0 0;
         margin: 0 auto;
-    }
-
-    img{
-        display:none;
     }
 
     input#fullname.form-control {
