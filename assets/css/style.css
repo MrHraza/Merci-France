@@ -429,6 +429,7 @@ button[type="submit"] {
 
 .footer-content{
     padding: 35px 0;
+    min-height: calc(100vh - 302px - 225px - 100px)
 }
 
 .footer-about{
