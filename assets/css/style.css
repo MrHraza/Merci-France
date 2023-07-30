@@ -600,7 +600,7 @@ button[type="button"] {
     }
 }
 
-@media screen and (max-width: 943px){
+@media screen and (max-width: 768px){
 
     #menu{
         clear: left;
@@ -742,5 +742,7 @@ button[type="button"] {
     }
     
 }
+
+
 
 
