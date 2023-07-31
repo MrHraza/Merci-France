@@ -134,5 +134,52 @@ As a tourist website, are goals are to provide valuable information, inspire tra
 
 - Drive Engagement on Social Media: Integrate social media channels such as facebook, instagram and twitter.
 
+## User Stories
+
+#### user 1
+As a frequent user of travel sites, I must express my frustration regarding the lack of direct communication with travel agents. It would be highly beneficial and improve my overall experience if I could easily reach out to a knowledgeable travel agent when planning my trips. While the online resources and information are helpful, there are times when I have specific questions or require personalized recommendations that are not addressed on the website.
+
+Having the ability to communicate directly with a travel agent would offer me the peace of mind and assurance that I'm making the best decisions for my travel arrangements
+
+#### user 2
+I would like, *for once*, the chance to scroll through a travel website that **does not** bombard me with information from all directions! It's incredibly frustrating to visit travel sites in search of my dream vacation, only to be stunned with a chaotic jumble of images, pop-ups, ads, and text scattered all over the screen. 
+
+Instead of feeling excited about planning my trip, I'm left feeling overwhelmed and stressed.
+
+When I visit a travel website, I want a pleasant and enjoyable experience, not a sensory overload that makes it challenging to find the information I need. A cluttered website design with an excess of information not only slows down my browsing but also makes it difficult to focus on the aspects that truly matter to me.
+
+#### user 3
+I would like a website to be minimalistic in its design and user-friendly. A clutter-free interface with a clean layout and a simplistic navigation would be equivalent to a breath of fresh air. It should present the information I need in a straightforward manner, without unnecessary distractions or visual noise.
+
+#### user 4
+I would like to see a user-friendly travel website that would prioritize responsiveness and fast loading times. Waiting for pages to load or dealing with a sluggish website can be incredibly frustrating, especially when I'm excited to explore various destinations and plan my next adventure.
+
+In addition, I wish for the website to have a clear and consistent color scheme and typography. This not only enhances the overall aesthetics but also contributes to a sense of professionalism and trustworthiness. It should be easy on the eyes, making it enjoyable to spend time on the site and discover new travel possibilities
+
+#### user 5
+I would like a website that allows me to easily view travel packages on my mobile device. Nowadays, more people are using their smartphones and tablets for travel planning, so having a mobile-responsive website, I believe is crucial. 
+
+A mobile-friendly design would ensure that all the content, images, and navigation elements adjust perfectly to fit my mobile screen. This way, I can browse through travel packages, check out destination details, and compare options effortlessly while on the go.
+
+In addition to a mobile-responsive layout, I would appreciate the option to sign up for a newsletter or receive regular email updates, keeping me informed about all the latest offers and deals. Having the most up-to-date information at my fingertips would be incredibly helpful in making well-informed decisions about my travel plans.
+
+## Website owner
+
+I want to be able to provide a simple and easy to use travel website, that has sufficient information for the layman to easily book an unforgettable trip to france. They should not be overloaded with information, and be able to navigate to the various areas of the website effortlessly. There should be a navigation system pleasing to the eye and easy enough for non-tech-literate individual to use. 
+
+Users should be able to contact the travel team quickly through various methods. Users should also be able to access our website on a moblie or tablet device. They should receive a 5-star service, from home to destination with the website providing and promoting saftey and security through hospitable travel packages and travel guides and tips. Travellers should also be able to reach us on social media platforms. A method of keeping customers up-to date on our latest travel offers should also be available.
+
+## Developer
+
+As a Developer I want to push myself and demonstrate my ability in coding and also wish to learn about accessiblity in regards to programming, so that I am able to create websites that have the furthest reach.
+
+## Design choices
+
+#### Colours
+The main colours of the website are *red (#e90000)*, *off-white (#fafafa)* and *blue (#09004b)*. These colours appear on the french flag and seemed a very obvious choice. Other colours that appear on the website are *Black (#000000)* used for text and shadows and a button. *Grey (#cac9c9)* is used to underline menu items as they are clicked or hovered over. *Light red (#d98c8c)* is used when social links are hovered over created a contrast allowing users to see the icon the are currently on. **A pallet selected from [coolors.co](https://coolors.co) was not used.**
+
+
+
+
 
 
