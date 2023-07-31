@@ -429,7 +429,6 @@ button[type="submit"] {
 
 .footer-content{
     padding: 35px 0;
-    min-height: calc(100vh - 302px - 225px - 100px)
 }
 
 .footer-about{
@@ -606,10 +605,9 @@ button[type="button"] {
     #menu{
         clear: left;
         float: left;
-        margin-top: 10px;
-        margin-left: 30px; 
-        margin-bottom: 20px;
+        margin: 7px auto;
         line-height: 25px;
+        letter-spacing: 2px;
     }
 
     .hide-mobile{
