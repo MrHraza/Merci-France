@@ -176,7 +176,7 @@ As a Developer I want to push myself and demonstrate my ability in coding and al
 ## Design choices
 
 #### Colours
-The main colours of the website are *red (#e90000)*, *off-white (#fafafa)* and *blue (#09004b)*. These colours appear on the french flag and seemed a very obvious choice. Other colours that appear on the website are *Black (#000000)* used for text and shadows and a button. *Grey (#cac9c9)* is used to underline menu items as they are clicked or hovered over. *Light red (#d98c8c)* is used when social links are hovered over created a contrast allowing users to see the icon the are currently on. **A pallet selected from [coolors.co](https://coolors.co) was not used.**
+The main colours of the website are *red (#e90000)*, *off-white (#fafafa)* and *blue (#09004b)*. These colours appear on the french flag and seemed a very obvious choice. Other colours that appear on the website are *Black (#000000)* used for text and shadows and a button. *Grey (#cac9c9)* is used to underline menu items as they are clicked or hovered over. *Light red (#d98c8c)* is used when social links are hovered over creating a contrast allowing users to see the icon the are currently on. **A pallet selected from [coolors.co](https://coolors.co) was not used.**
 
 #### Typography
 For my site I chose to use one font throughout. This was for the consistency element. 
@@ -212,7 +212,7 @@ Examples of icons used in my website.
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/05ed4592-8c19-43b2-b157-62701d97acd5)
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/647ca07a-8055-46c9-85b0-9d77df13452c)
 
-The images used across the website are not random images. They are all purposeful. Images related to the country france. In total and all less than 1MB each, taking into consideration loading times. 
+The images used across the website are not random images. They are all purposeful. Images related to the country france. All less than 1MB each, taking into consideration loading times. 
 
 #### Animations and Transitions
 On my cover page Index.html, I have used a carousel, a user-friendly element, to increase visual appeal. It includes arrows either side of the images, allowing users to navigate forward or backward through the carousel at their own pace.
@@ -220,24 +220,24 @@ On my cover page Index.html, I have used a carousel, a user-friendly element, to
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/718beb51-66d0-42ed-a622-2a4c66ef8710)
 
 #### Site Structure
-I have opted for a multiple page website over a single-page site for a few reasons. 
+I have opted for a multiple-page website over a single-page site for a few reasons. 
 
-A multiple pages website organizes content into separate pages, each dedicated to specific topics or sections. Here are a couple of my considerations for a multiple page website; Content Organization, SEO Benefits.
+A multiple-page website organizes content into separate pages, each dedicated to specific topics or sections. Here are a couple of my considerations for a multiple-page website; Content Organization, SEO Benefits.
 
 Multiple pages allow for better content organization. Visitors can easily navigate to specific sections of interest without scrolling through unrelated content. Also in my plans for the future, each page can be optimized for specific keywords, improving search engine rankings and visibility.
 
-Although there are good advantages for a multiple page website it does not come without drawbacks. These are things like slower loading times and a complicated navigation system if it is not built properly. 
+Although there are good advantages for a multiple-page website it does not come without drawbacks. These are things like slower loading times and a complicated navigation system if it is not built properly. 
 
-All in all I favoured a multiple page website as this is more practical for my audience/users. 
+All in all I favoured a multiple-page website as this is more practical for my audience/users. 
 
 ## Interactive Design Elements
 
 #### Menu
-The main menu loacated is in the header of the page horizontally placed. The current page a user is browsing is underlined (see image).
+The main menu is located in the header of the page horizontally placed. The current page a user is browsing is underlined (see image).
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/65f73589-6696-4a4e-a6c6-161f14a8e91b)
 
-If a user then hovers over another page in the menu, then this will also temporarily underline, though this is subject to their mouse imput/movement over the menu items (see image).
+If a user then hovers over another page in the menu, then this will also temporarily underline, though this is subject to their mouse input/movement over the menu items (see image).
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/5258c2ae-4475-4780-ade1-9567c56959d8)
 
@@ -285,9 +285,10 @@ On two seperate pages, contact us.html and sign up.html I have forms that allow 
 
 Contact us form
 
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/c01535eb-6d64-4e80-a6cc-abaebc707ccf)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/56c80868-cf75-409e-b52d-4576c8bed6f8)
 
 Sign up form
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/6c84da2b-5ec0-4dc2-8680-219243313bb6)
 
 ## Wireframes
@@ -298,14 +299,14 @@ Sign up form
 
 ## Features
 
-My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the website that offer the deals/packages. They are often further made difficult by bad fonts used and an overload of information. They are not made for responsive device or not very well. Users are not able to make or sustain any contact with the travel agency. There was an inability to communicate problems and general navigation was hard. 
+My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the websites that offer the deals/packages. They are often further made difficult by bad fonts and an overload of information. They are not made for responsive devices. Users are not able to make or sustain any contact with the travel agency. Also there was an inability to communicate problems and generally navigation was hard. 
 
 To combat this I have focused my attention on certain aspects to eleviate these problems, namely:
-- easy and simple to use menu, 3 pages of the most important pages are located at the top. (homepage, contact us, sign up)
+- An easy and simple to use menu, 3 of the most important pages are located at the top. (homepage, contact us, sign up)
 - easy to read, consistant and professional font throughout the website.
 - large and easy to navigate submenu located on the homepage. This is made using universally recognised icons.
 - a minimalistic style to combat the convaluted space that is a travel homepage. This was made consistant throughout the website.
-- a contact us/customer service form, this was made both form feedback and help.
+- a contact us/customer service form, this was made for both feedback and help.
 - sustained contact can be made via the sign-up form. Users will receive regular emails from discover france.
 - the website can be accessed easily on a mobile or tablet device, keeping the minimalistic style on both these devices.
 
@@ -314,33 +315,46 @@ I have tried my utmost best to address user issues regarding travel websites.
 ## Implemented features
 
 #### Header
-Priority - Establish logo and breate an easy main navigation
-Logo - linked back to the homepage, as this is intuitive as a lot of websites work this way
+
+*Priority* - Establish logo and create an easy main navigation
+
+*Logo* - linked back to the homepage, as this is intuitive as a lot of websites work this way
 Menu is responsive - menu wraps beneath the logo. I have opted to do this as there are three links and I wanted to make this easy to use for non-techy people who may not know how to use the burger icon. 
 I did consider navbar being fixed at top when scrolling but decided this may confuse elderly users.
 
 #### Footer
-Keeping with a minimalistic style - I opted not to put many links in the footer.
-Social media links avaialble and opening in a new tab
+
+*Keeping with a minimalistic style* - I opted not to put many links in the footer only social media links avaialble and opening in a new tab
 
 #### Cover page (index.html)
-Capture the attention of my audience - I chose to use this page as an entrance to my website. It was made simple with a carousel of captivating images and a simple message and explore button in the footer.
+
+*Capture the attention of my audience* - I chose to use this page as an entrance to my website. It was made simple with a carousel of captivating images and a simple message and explore button in the footer.
 
 #### Homepage
-Submenu - The homepage displays a large submenu with *links to come in the future* to other pages.
-Download app - below the submenu I have chosen to add a 'download app' section another *future endeavour*. Currently the download button links to the Apple appstore.
+
+*Submenu* - The homepage displays a large submenu with *links to come in the future* to other pages.
+
+*Download app* - below the submenu I have chosen to add a 'download app' section another future endeavour. Currently the download button links to the Apple appstore.
 
 #### Contact us 
-Contact information - Here the users can find an email, phone and address to the company if they wish to write a letter.
-Customer service form - Complaints, feedback, general help questions can be made here. 
-About section - Re-affirming our mission and hospitality, I chose to place the about section here. As it is a strong message to say we strive to provide the very best.
-User information - Input fields are all made mandatory to fill if the user is using the form.
+
+*Contact information* - Here the users can find an email, phone and address to the company if they wish to write a letter.
+
+*Customer service form* - Complaints, feedback, general help questions can be made here. 
+
+*About section* - Re-affirming our mission and hospitality, I chose to place the about section here. As it is a strong message to say we strive to provide the very best.
+
+*User information* - Input fields are all made mandatory to fill if the user is using the form.
 
 #### Sign up
-Receive update - the choice is given to sign up and receive great offers from the company convienently to the users inbox.
-Sustain contact - Many users complained of not being able stay in contact with their travel agencies here is a solution. A member will be given priority.
-Confirmation - Users receive confirmation of their signing up. 
-User information - Input fields are all made mandatory to fill if the user is using the form.
+
+*Receive update* - the choice is given to sign up and receive great offers from the company convienently to the users inbox.
+
+*Sustain contact* - Many users complained of not being able stay in contact with their travel agencies here is a solution. A member will be given priority.
+
+*Confirmation* - Users receive confirmation of their signing up. 
+
+*User information* - Input fields are all made mandatory to fill if the user is using the form.
 
 #### Custom 404 error page
 A simple error message with redirection to the homepage.
@@ -401,6 +415,8 @@ A simple error message with redirection to the homepage.
   
 #### Eco-friendly Systems
 - Integration with carbon offset programs for eco-conscious travel.
+  
+
 
 *I firmly believe that the future of travel websites lies in innovation and meeting the evolving needs of travelers. These future features can revolutionize the company Discover france and travel as a whole, providing unique and personalized experiences for users seeking to explore france **and by extention, the world**.*
 
