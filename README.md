@@ -178,6 +178,122 @@ As a Developer I want to push myself and demonstrate my ability in coding and al
 #### Colours
 The main colours of the website are *red (#e90000)*, *off-white (#fafafa)* and *blue (#09004b)*. These colours appear on the french flag and seemed a very obvious choice. Other colours that appear on the website are *Black (#000000)* used for text and shadows and a button. *Grey (#cac9c9)* is used to underline menu items as they are clicked or hovered over. *Light red (#d98c8c)* is used when social links are hovered over created a contrast allowing users to see the icon the are currently on. **A pallet selected from [coolors.co](https://coolors.co) was not used.**
 
+#### Typography
+For my site I chose to use one font throughout. This was for the consistency element. 
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/9df8b567-a4f0-4c79-a385-9e2a145b8e7d)
+
+The font was chosen from [**google fonts library**] https://fonts.google.com/specimen/Oswald?query=oswald.
+
+"Oswald" is a clean and modern sans-serif font that offers a strong and professional look, making it suitable for a wide range of design styles.
+
+Some reasons why I believe "Oswald" is a great font:
+
+- **Readability**: "Oswald" is highly legible, making it easy for visitors to read and understand your website's content. Its clean and simple design ensures that the text remains clear, even on different screen sizes and resolutions.
+
+- **Versatility**: This font's versatility allows it to work well for both headings and body text. Its bold and distinct characters make headlines stand out, while its comfortable readability makes it ideal for longer paragraphs of content.
+
+- **Modern and Professional**: "Oswald" exudes a modern and professional vibe, making it suitable for various industries and design themes. Whether your website focuses on travel, technology, or any other niche, this font will lend a polished and sophisticated appearance to your site.
+
+- **Google Fonts Integration**: Since "Oswald" is available on Google Fonts, you can easily integrate it into your website without worrying about licensing or compatibility issues. This allows for a seamless user experience, as visitors won't need to download the font separately.
+
+- **Responsive Design**: "Oswald" performs well on different devices and browsers, ensuring that your website maintains its visual appeal and readability across various platforms.
+
+*It's an excellent foundation for creating an **engaging and user-friendly experience** for the website visitors.*
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/0553e989-c564-4e32-8bcb-b4c526a75e9f)
+
+#### Imagery
+I have used many icons across my website for *Visual Communication* as icons provide a quick and visually engaging way to convey information. They can represent ideas, actions, or concepts without the need for lengthy text explanations. This makes it easier for users, of my website, to grasp the content and navigate through the website efficiently. Also they have faster loading times compared to images, icons are typically lightweight and load quickly, contributing to faster page loading times. This will improve website performance and user satisfaction. All icons are taken from font awesomes' library. [fontawesome.com](https://fontawesome.com/v4/icons/)
+
+Examples of icons used in my website.
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/97ea2ac6-43a9-4d02-b60e-300eeeefce4a)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/647ca07a-8055-46c9-85b0-9d77df13452c)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/05ed4592-8c19-43b2-b157-62701d97acd5)
+
+The images used across the website are not random images. They are all purposeful. Images related to the country france. In total and all less than 1MB each, taking into consideration loading times. 
+
+#### Animations and Transitions
+On my cover page Index.html, I have used a carousel, a user-friendly element, to increase visual appeal. It includes arrows either side of the images, allowing users to navigate forward or backward through the carousel at their own pace.
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/718beb51-66d0-42ed-a622-2a4c66ef8710)
+
+#### Site Structure
+I have opted for a multiple page website over a single-page site for a few reasons. 
+
+A multiple pages website organizes content into separate pages, each dedicated to specific topics or sections. Here are a couple of my considerations for a multiple page website; Content Organization, SEO Benefits.
+
+Multiple pages allow for better content organization. Visitors can easily navigate to specific sections of interest without scrolling through unrelated content. Also in my plans for the future, each page can be optimized for specific keywords, improving search engine rankings and visibility.
+
+Although there are good advantages for a multiple page website it does not come without drawbacks. These are things like slower loading times and a complicated navigation system if it is not built properly. 
+
+All in all I favoured a multiple page website as this is more practical for my audience/users. 
+
+## Interactive Design Elements
+
+#### Menu
+
+The main menu loacated is in the header of the page horizontally placed. The current page a user is browsing is underlined (see image).
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/65f73589-6696-4a4e-a6c6-161f14a8e91b)
+
+If a user then hovers over another page in the menu, then this will also temporarily underline, though this is subject to their mouse imput/movement over the menu items (see image).
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/5258c2ae-4475-4780-ade1-9567c56959d8)
+
+#### Buttons
+All buttons across the website are interactive, they invert colours when the user hovers over them (see images before & after)
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/dc57d4d1-19c8-46b7-b7a6-4745407e6ca1) *before*
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/2e3eb17f-ea1d-4b10-8650-256e04961247) *after*
+
+#### Social media icons
+Social media icons, facebook, twitter and instagram are all hyperlinked to their respective websites and when the user hovers over them they highlight. 
+In the screenshot twitter has been hightlighted as the mouse hovers over the icon.
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/3d999cfe-4166-4e6a-851f-c9fc025a9658)
+
+#### Javascript Carousel
+I have included in my website a carousel which has arrows allowing users to scroll through images themselves, if you hover over the arrow(left or right), the arrow highlights in white, whilst the other arrow remains a dull grey. ((see image). Right, is white as the user hovers over it whilst the other arrow remains dull grey, left)
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/599e78c6-4018-4d18-b991-858a32d215f0)
+
+#### Submenu 
+Located on the homepage, is a simple and easy-to-use submenu. A clever css trick with shadows allows the user to see which submenu item they are on. As the mouse hovers over an item a subtle shadow appears, aswell as the aesthetic nature, this is to confirm to the users where on the submenu they are. 
+
+(****missing****)
+
+#### About
+Users can read a summarised version of the company's (discover france) purpose or if they choose, read a more detailed version by clicking 'continue reading'.
+(see image before & after)
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/357a41ed-cb3f-466f-81e7-3ace8ba7e7c2) *before*
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/86720245-00d1-4433-8ad3-511907634ec4) *after*
+
+#### Contact us form, Sign up form
+On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see image, also see below **implemented features** for form results)
+
+Contact us form
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/c01535eb-6d64-4e80-a6cc-abaebc707ccf)
+
+Sign up form
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/6c84da2b-5ec0-4dc2-8680-219243313bb6)
+
+## Wireframes
+
+
+
+
+
+
+
+
+
+
+
 
 
 
