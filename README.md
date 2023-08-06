@@ -70,11 +70,11 @@ At Discover France, we understand that travel is not just about visiting places;
 - Safe and Secure: Rest assured, your travel safety is our priority, and we provide essential travel information and support for a worry-free journey.
 
 
-**Join Us on this Epic Journey!**
+*Join Us on this Epic Journey!*
 
 Embark on a mesmerizing adventure of a lifetime with Discover France - a celebration of culture, history, and beauty wrapped in an irresistible package. Let us be your trusted companion as you unravel the magic of this timeless destination. 
 
-##### Start your journey today at https://mrhraza.github.io/Merci-France/index.html and be enchanted by the wonders that await you!
+Start your journey today at https://mrhraza.github.io/Merci-France/index.html and be enchanted by the wonders that await you!
 
 ## Live Site
 
@@ -209,8 +209,8 @@ I have used many icons across my website for *Visual Communication* as icons pro
 Examples of icons used in my website.
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/97ea2ac6-43a9-4d02-b60e-300eeeefce4a)
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/647ca07a-8055-46c9-85b0-9d77df13452c)
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/05ed4592-8c19-43b2-b157-62701d97acd5)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/647ca07a-8055-46c9-85b0-9d77df13452c)
 
 The images used across the website are not random images. They are all purposeful. Images related to the country france. In total and all less than 1MB each, taking into consideration loading times. 
 
@@ -244,10 +244,10 @@ If a user then hovers over another page in the menu, then this will also tempora
 
 #### Buttons
 All buttons across the website are interactive, they invert colours when the user hovers over them (see images before & after)
-
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/dc57d4d1-19c8-46b7-b7a6-4745407e6ca1) *before*
-
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/2e3eb17f-ea1d-4b10-8650-256e04961247) *after*
+*before*
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/dc57d4d1-19c8-46b7-b7a6-4745407e6ca1)
+*after*
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/2e3eb17f-ea1d-4b10-8650-256e04961247)
 
 #### Social media icons
 Social media icons, facebook, twitter and instagram are all hyperlinked to their respective websites and when the user hovers over them they highlight. 
@@ -268,10 +268,10 @@ Located on the homepage, is a simple and easy-to-use submenu. A clever css trick
 #### About
 Users can read a summarised version of the company's (discover france) purpose or if they choose, read a more detailed version by clicking 'continue reading'.
 (see image before & after)
-
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/357a41ed-cb3f-466f-81e7-3ace8ba7e7c2) *before*
-
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/86720245-00d1-4433-8ad3-511907634ec4) *after*
+*before*
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/357a41ed-cb3f-466f-81e7-3ace8ba7e7c2)
+*after*
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/86720245-00d1-4433-8ad3-511907634ec4)
 
 #### Contact us form, Sign up form
 On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see image, also see below **implemented features** for form results)
@@ -284,6 +284,9 @@ Sign up form
 
 ## Wireframes
 
+![index]wireframes/contact/Contact-us.html.jpg
+
+***need to rename****
 
 
 
