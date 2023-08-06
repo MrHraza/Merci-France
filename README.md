@@ -420,6 +420,18 @@ A simple error message with redirection to the homepage.
 
 *I firmly believe that the future of travel websites lies in innovation and meeting the evolving needs of travelers. These future features can revolutionize the company Discover france and travel as a whole, providing unique and personalized experiences for users seeking to explore france **and by extention, the world**.*
 
+## Version Control
+
+I realise and apologise for the defiencey in commits in this project. I have had many issues first with codeanywhere - not being able to link up. I sought out help but it was taking up my coding time. As I am in full-time employment, I don't have much time to code when I return from a 8-hour shift. Thus I did not have the time to waste fiddling with this issue. 
+
+I was shown to gitpod where I encountered a second issue of not being able to open my code in the browser - kept getting an error message. I downloaded Visual Studio on desktop and whenever I completed a large enough section/page of code I copied and pasted the entire code in gitpod browser and committed it. 
+
+I acknowledge that this isn't the way to do things, and having contemplating leaving the course because of the frustration it caused. I decided to sidestep issues for now and get the project done and meet the deadline.
+
+In future projects, I intend to give time to resolve the issue and I will commit regularly and I do realise that commiting regularly is important for the demonstration in projects and actual employment.
+
+Hoping you understand the struggle!
+
 
 ## Testing
 
