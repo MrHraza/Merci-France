@@ -237,7 +237,7 @@ section .download-box{
     font-family: "oswald", sans-serif;
     font-weight: 300;
     font-size: 400%;
-    color: #2e2e2e;
+    color: #09004b;
     display: block;
     text-align: center;
     text-transform: uppercase;
@@ -504,7 +504,7 @@ button[type="button"] {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-color: #e45252;
+    background-color: #e90000;
     border-radius: 50%; 
     line-height: 7px;
     color: #fafafa;
@@ -741,6 +741,7 @@ button[type="button"] {
     }
     
 }
+
 
 
 
