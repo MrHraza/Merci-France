@@ -233,7 +233,6 @@ All in all I favoured a multiple page website as this is more practical for my a
 ## Interactive Design Elements
 
 #### Menu
-
 The main menu loacated is in the header of the page horizontally placed. The current page a user is browsing is underlined (see image).
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/65f73589-6696-4a4e-a6c6-161f14a8e91b)
@@ -244,9 +243,13 @@ If a user then hovers over another page in the menu, then this will also tempora
 
 #### Buttons
 All buttons across the website are interactive, they invert colours when the user hovers over them (see images before & after)
+
 *before*
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/dc57d4d1-19c8-46b7-b7a6-4745407e6ca1)
+
 *after*
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/2e3eb17f-ea1d-4b10-8650-256e04961247)
 
 #### Social media icons
@@ -268,15 +271,20 @@ Located on the homepage, is a simple and easy-to-use submenu. A clever css trick
 #### About
 Users can read a summarised version of the company's (discover france) purpose or if they choose, read a more detailed version by clicking 'continue reading'.
 (see image before & after)
+
 *before*
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/357a41ed-cb3f-466f-81e7-3ace8ba7e7c2)
+
 *after*
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/86720245-00d1-4433-8ad3-511907634ec4)
 
 #### Contact us form, Sign up form
-On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see image, also see below **implemented features** for form results)
+On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see image, also see below **features** for form results)
 
 Contact us form
+
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/c01535eb-6d64-4e80-a6cc-abaebc707ccf)
 
 Sign up form
@@ -287,6 +295,121 @@ Sign up form
 ![index]wireframes/contact/Contact-us.html.jpg
 
 ***need to rename****
+
+## Features
+
+My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the website that offer the deals/packages. They are often further made difficult by bad fonts used and an overload of information. They are not made for responsive device or not very well. Users are not able to make or sustain any contact with the travel agency. There was an inability to communicate problems and general navigation was hard. 
+
+To combat this I have focused my attention on certain aspects to eleviate these problems, namely:
+- easy and simple to use menu, 3 pages of the most important pages are located at the top. (homepage, contact us, sign up)
+- easy to read, consistant and professional font throughout the website.
+- large and easy to navigate submenu located on the homepage. This is made using universally recognised icons.
+- a minimalistic style to combat the convaluted space that is a travel homepage. This was made consistant throughout the website.
+- a contact us/customer service form, this was made both form feedback and help.
+- sustained contact can be made via the sign-up form. Users will receive regular emails from discover france.
+- the website can be accessed easily on a mobile or tablet device, keeping the minimalistic style on both these devices.
+
+I have tried my utmost best to address user issues regarding travel websites.
+
+## Implemented features
+
+#### Header
+Priority - Establish logo and breate an easy main navigation
+Logo - linked back to the homepage, as this is intuitive as a lot of websites work this way
+Menu is responsive - menu wraps beneath the logo. I have opted to do this as there are three links and I wanted to make this easy to use for non-techy people who may not know how to use the burger icon. 
+I did consider navbar being fixed at top when scrolling but decided this may confuse elderly users.
+
+#### Footer
+Keeping with a minimalistic style - I opted not to put many links in the footer.
+Social media links avaialble and opening in a new tab
+
+#### Cover page (index.html)
+Capture the attention of my audience - I chose to use this page as an entrance to my website. It was made simple with a carousel of captivating images and a simple message and explore button in the footer.
+
+#### Homepage
+Submenu - The homepage displays a large submenu with *links to come in the future* to other pages.
+Download app - below the submenu I have chosen to add a 'download app' section another *future endeavour*. Currently the download button links to the Apple appstore.
+
+#### Contact us 
+Contact information - Here the users can find an email, phone and address to the company if they wish to write a letter.
+Customer service form - Complaints, feedback, general help questions can be made here. 
+About section - Re-affirming our mission and hospitality, I chose to place the about section here. As it is a strong message to say we strive to provide the very best.
+User information - Input fields are all made mandatory to fill if the user is using the form.
+
+#### Sign up
+Receive update - the choice is given to sign up and receive great offers from the company convienently to the users inbox.
+Sustain contact - Many users complained of not being able stay in contact with their travel agencies here is a solution. A member will be given priority.
+Confirmation - Users receive confirmation of their signing up. 
+User information - Input fields are all made mandatory to fill if the user is using the form.
+
+#### Custom 404 error page
+A simple error message with redirection to the homepage.
+
+## Future features
+
+#### Improve navigation
+- Voice-enabled search and navigation.
+
+#### Submenu on homepage
+- More linked pages need to be added.
+- Images instead of icons
+
+#### Download app
+- An app could be introduced
+
+#### Live chat
+- A live chatbot could be introduced to help users.
+- Live video chat with travel agents for instant support.
+
+#### SMS messages
+- Users who sign up could choose to receive sms messages and or emails.
+
+#### Gallery
+- A gallery could be added to the website either the company uses their own images or gives users an opportunity to upload their photos.
+- Interactive 360-degree images of accommodations and attractions.
+
+#### Testimonials
+- User experiences/feedback that will be published to the public.
+
+#### AI-Powered Travel Assistant for personalized trip planning
+- Users could maximize their experience and use of the website with AI assistance.
+- Real-time flight and accommodation price tracking.
+
+#### Weather updates
+- Real-time weather updates for planned travel dates.
+
+#### Use of analytics
+- Personalized travel deals based on user behavior and history.
+
+#### Exchange rate check
+- Dynamic currency converter for real-time exchange rates.
+
+#### Smart Travel Assistant
+- Integration with smart home devices for seamless travel preparations. (something like Alexa or Siri)
+
+#### User Travel Safety check
+- Travel risk assessment and safety alerts for destinations.
+  
+#### Sign up/Membership Usage
+- Subscription-based travel memberships for exclusive perks.
+  
+#### Events 
+- Live streaming of travel-related events and conferences.
+  
+#### Improvement on Travel Tips
+- Virtual travel workshops and classes.
+  
+#### Eco-friendly Systems
+- Integration with carbon offset programs for eco-conscious travel.
+
+*I firmly believe that the future of travel websites lies in innovation and meeting the evolving needs of travelers. These future features can revolutionize the company Discover france and travel as a whole, providing unique and personalized experiences for users seeking to explore france **and by extention, the world**.*
+
+
+## Testing
+
+
+
+
 
 
 
