@@ -438,8 +438,13 @@ Hoping you understand the struggle!
 
 
 
+## Validation
 
+#### CSS Validation
 
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/fa3b6062-3d2d-469b-8988-8efb24f980ea)
+
+#### HTMLl Validation
 
 
 
