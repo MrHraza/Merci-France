@@ -103,15 +103,14 @@ h3 {
 
 .discover-item::before {
     position: absolute;
-    content: 'Coming Soon!';
+    content: 'Coming Soon...';
     right: -1px;
     top: -2px;
     width: calc(100% + 2.25px);
-    background: #e90000;
-    color: #fafafa;
+    color: #000000;
     height: 25px;
-    font-size: 12px;
-    line-height: 22px;
+    font-size: 8px;
+    line-height: 34px;
     font-weight: 700;
     border-radius: 6px 6px 0 0;
 }
@@ -142,7 +141,6 @@ section .main-content i {
     text-align: center;
     position: relative;
     top: 90px;
-    text-shadow: 0.01em 0.01em 0.02em #000000;
 }
 
 section .main-content i:hover{
@@ -230,7 +228,7 @@ section .download-box{
 /**contact us title**/
 .row-2{
     width: 100%;
-    margin: 1.5rem 0 3rem 0;
+    margin: 3rem 0 3rem 0;
 }
 
 .page-title {
@@ -292,7 +290,7 @@ section .download-box{
     font-size: 50px;
     display: inline-block;
     margin: 60px 0 25px 0;
-    text-shadow: 0.01em 0.06em 0.02em #000000;
+    
 }
 
 .info-items p {
@@ -309,7 +307,7 @@ section .download-box{
 
 .contact-form-heading {
     font-family: "oswald", sans-serif;
-    font-weight: 400 bold;
+    font-weight: 400;
     padding-top: 30px;
     margin-top: 50px;
     margin-bottom: 20px ;
@@ -419,6 +417,49 @@ button[type="submit"] {
     box-shadow: inset 0.0rem 0.0rem 1rem rgba(0,0,0,0.15);
 }
 
+/* thank you.html */
+.signed-up {
+    font-family: "oswald", sans-serif;
+    color: #09004b;
+    text-align: center;
+    padding: 50px;
+    background: url("../images/french-food.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.message-box{
+    backdrop-filter: blur(10px) ;
+    width:auto;
+    margin: 0 auto;
+}
+
+.vertical-center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+.thank-you-message {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.offer-details {
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+.note {
+    font-style: italic;
+    font-size: small;
+    padding-bottom: 10px;
+}
+
 
 /*footer all pages*/
 
@@ -490,6 +531,10 @@ button[type="button"] {
     margin: 0;
 }
 
+#Copyright {
+    font-size: x-small;
+}
+
 .text-right{
     text-align: right;
 }
@@ -523,6 +568,7 @@ button[type="button"] {
 .bottom-box .socials a i:hover {
     background-color: #d98c8c;
 }
+
 
 /* responsive bits, small snippets from !all pages that needed adjusting */
 
@@ -741,7 +787,6 @@ button[type="button"] {
     }
     
 }
-
 
 
 
