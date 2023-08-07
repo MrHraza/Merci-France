@@ -210,7 +210,8 @@ Examples of icons used in my website.
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/97ea2ac6-43a9-4d02-b60e-300eeeefce4a)
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/05ed4592-8c19-43b2-b157-62701d97acd5)
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/647ca07a-8055-46c9-85b0-9d77df13452c)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/0e9d5c1b-41f4-431b-8e17-ce59530e9867)
+
 
 The images used across the website are not random images. They are all purposeful. Images related to the country france. All less than 1MB each, taking into consideration loading times. 
 
@@ -256,7 +257,7 @@ All buttons across the website are interactive, they invert colours when the use
 Social media icons, facebook, twitter and instagram are all hyperlinked to their respective websites and when the user hovers over them they highlight. 
 In the screenshot twitter has been hightlighted as the mouse hovers over the icon.
 
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/3d999cfe-4166-4e6a-851f-c9fc025a9658)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/0e9d5c1b-41f4-431b-8e17-ce59530e9867)
 
 #### Javascript Carousel
 I have included in my website a carousel which has arrows allowing users to scroll through images themselves, if you hover over the arrow(left or right), the arrow highlights in white, whilst the other arrow remains a dull grey. ((see image). Right, is white as the user hovers over it whilst the other arrow remains dull grey, left)
@@ -266,7 +267,10 @@ I have included in my website a carousel which has arrows allowing users to scro
 #### Submenu 
 Located on the homepage, is a simple and easy-to-use submenu. A clever css trick with shadows allows the user to see which submenu item they are on. As the mouse hovers over an item a subtle shadow appears, aswell as the aesthetic nature, this is to confirm to the users where on the submenu they are. 
 
-(****missing****)
+See image below as the user hovers over the 'hotels and restaurants'
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/cf9a71ba-296e-4d30-981a-98c14e5b295b)
+
 
 #### About
 Users can read a summarised version of the company's (discover france) purpose or if they choose, read a more detailed version by clicking 'continue reading'.
@@ -281,7 +285,7 @@ Users can read a summarised version of the company's (discover france) purpose o
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/86720245-00d1-4433-8ad3-511907634ec4)
 
 #### Contact us form, Sign up form
-On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see image, also see below **features** for form results)
+On two seperate pages, contact us.html and sign up.html I have forms that allow the users to fill out personal details and submit. (see images)
 
 Contact us form
 
@@ -291,11 +295,36 @@ Sign up form
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/6c84da2b-5ec0-4dc2-8680-219243313bb6)
 
+Thank you page is shown after the sign up form is completed
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/5f6f39e2-936f-4e37-a085-9dc617a1f25d)
+
+
 ## Wireframes
 
-![index]wireframes/contact/Contact-us.html.jpg
+- Cover page
 
-***need to rename****
+![cover page](wireframes/index/Index-wireframe.jpg)
+
+- Home page
+
+![cover page](wireframes/home/Home-wireframe.jpg)
+
+- Contact us page
+
+![cover page](wireframes/contact/Contact-us-wireframe.jpg)
+
+- Sign up page
+
+![cover page](wireframes/signup/Sign-up-wireframe.jpg)
+
+- Thank you page
+
+*****
+
+- Custom 404 error page
+
+*****
 
 ## Features
 
@@ -436,15 +465,50 @@ Hoping you understand the struggle!
 ## Testing
 
 
-
-
-## Validation
+### Validation
 
 #### CSS Validation
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/fa3b6062-3d2d-469b-8988-8efb24f980ea)
 
-#### HTMLl Validation
+#### HTML Validation
+
+- index.html
+  
+- home.html
+- contactus.html
+- signup.html
+- Thankyou.html
+- 404.html
+
+## Technologies used
+
+#### Programming Languages
+- CSS 
+- HTML 
+- JS
+- Markdown
+
+#### Frameworks and Extensions
+- Bootstrap 4.2.1
+
+#### Icons
+- FontAwesome 4.7
+
+#### Tools
+- Github
+- Visual Studio
+- Pen and paper
+- markdown table of contents generator
+- Favicon
+
+## Deployment
+
+## Credits
+
+## Content and Media
+
+## Acknowledgements
 
 
 
