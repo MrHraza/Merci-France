@@ -460,6 +460,24 @@ button[type="submit"] {
     padding-bottom: 10px;
 }
 
+/* page not found.html */
+
+.pagenotfound {
+    font-family: "oswald", sans-serif;
+    text-align: center;
+    color: #09004b;
+    height: 100vh;
+    
+}
+
+.pnf-text h1 {
+    padding: 50px;
+}
+.pnf-text p {
+    margin: 8px 0 8px 0;
+    font-size: 18px;
+}
+
 
 /*footer all pages*/
 
@@ -787,7 +805,6 @@ button[type="button"] {
     }
     
 }
-
 
 
 
