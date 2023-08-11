@@ -476,9 +476,13 @@ Hoping you understand the struggle!
 - index.html
   
 - home.html
+
 - contactus.html
+  
 - signup.html
+  
 - Thankyou.html
+  
 - 404.html
 
 ## Technologies used
@@ -504,9 +508,66 @@ Hoping you understand the struggle!
 
 ## Deployment
 
+#### Follow the steps to deploy on Github pages. 
+
+1. In your repository, click on 'settings' in the navigation bar.
+   
+   
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/cb3856e3-8c91-426a-9b18-9469cee122a2)
+
+
+2. In the side menu, on the settings page, click pages (highlighted).
+   
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/087224aa-93fc-4fbd-9342-26c21846cb9e)
+
+
+3. Select that which you want to deploy. (main)
+   
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/aeb717cf-123c-478e-be05-2f9d5527e518)
+
+
+4. Save and deploy options are then available to click.
+5. You can find a link to your deployed website through 'Settings > Pages' or by clicking 'Environments' on the right-hand side of your repository page. 
+
+
+
 ## Credits
 
+- Code Institute Lessons, HTML & CSS
+- Code Institutes Love Running project
+- Code Institutes Resume project
+- Code Institutes Whiskey Drop project
+
 ## Content and Media
+
+#### The following websites were visited for inspiration/ideas;
+
+https://visitqatar.com/
+https://www.awwwards.com/
+https://fonts.google.com/
+https://fonts.google.com/icons
+
+#### All images were taken from;
+
+www.pexels.com - images on the website.
+www.pngegg.com - Favicon "french flag"
+
+#### Code related ideas;
+
+www.csstricks.com - Shadows, Backdrop filter for blur
+Code Institutes Love Running project for the navigation bar
+https://www.w3schools.com/
+
+
+
+
+
+
+
+
+
 
 ## Acknowledgements
 
