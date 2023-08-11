@@ -544,21 +544,21 @@ Hoping you understand the struggle!
 
 #### The following websites were visited for inspiration/ideas;
 
-https://visitqatar.com/
-https://www.awwwards.com/
-https://fonts.google.com/
-https://fonts.google.com/icons
+- https://visitqatar.com/
+- https://www.awwwards.com/
+- https://fonts.google.com/
+- https://fonts.google.com/icons
 
 #### All images were taken from;
 
-www.pexels.com - images on the website.
-www.pngegg.com - Favicon "french flag"
+- www.pexels.com - images on the website.
+- www.pngegg.com - Favicon "french flag"
 
 #### Code related ideas;
 
-www.csstricks.com - Shadows, Backdrop filter for blur
-Code Institutes Love Running project for the navigation bar
-https://www.w3schools.com/
+- www.csstricks.com - Shadows, Backdrop filter for blur
+- Code Institutes Love Running project for the navigation bar
+- https://www.w3schools.com/
 
 
 
