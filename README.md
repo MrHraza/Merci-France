@@ -27,11 +27,6 @@ A wonderfully beautiful and popular travel destination with a rich cultural heri
 
 The powerful concoction of history, culture, art, food, landscapes, and experiences makes France an irresistible destination for travelers seeking a mix of adventure, relaxation, and immersion in a captivating culture.
 
-## Author
-
-Husnain Raza
-
-
 
 ## Project Overview
 
@@ -86,8 +81,7 @@ Start your journey today at https://mrhraza.github.io/Merci-France/index.html an
 
 ## Author
 
-Developer 
-Husnain Raza
+Developer  -  *Husnain Raza*
 
 ## Table of Contents
 🚀 **merit & beyond**
@@ -231,6 +225,48 @@ Although there are good advantages for a multiple-page website it does not come 
 
 All in all I favoured a multiple-page website as this is more practical for my audience/users. 
 
+
+## Wireframes
+
+- Cover page
+
+![cover page](wireframes/index/Index-wireframe.jpg)
+
+- Home page
+
+![cover page](wireframes/home/Home-wireframe.jpg)
+
+- Contact us page
+
+![cover page](wireframes/contact/Contact-us-wireframe.jpg)
+
+- Sign up page
+
+![cover page](wireframes/signup/Sign-up-wireframe.jpg)
+
+- Thank you page
+
+*****
+
+- Custom 404 error page
+
+*****
+
+## Features
+
+My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the websites that offer the deals/packages. They are often further made difficult by bad fonts and an overload of information. They are not made for responsive devices. Users are not able to make or sustain any contact with the travel agency. Also there was an inability to communicate problems and generally navigation was hard. 
+
+To combat this I have focused my attention on certain aspects to eleviate these problems, namely:
+- An easy and simple to use menu, 3 of the most important pages are located at the top. (homepage, contact us, sign up)
+- easy to read, consistant and professional font throughout the website.
+- large and easy to navigate submenu located on the homepage. This is made using universally recognised icons.
+- a minimalistic style to combat the convaluted space that is a travel homepage. This was made consistant throughout the website.
+- a contact us/customer service form, this was made for both feedback and help.
+- sustained contact can be made via the sign-up form. Users will receive regular emails from discover france.
+- the website can be accessed easily on a mobile or tablet device, keeping the minimalistic style on both these devices.
+
+I have tried my utmost best to address user issues regarding travel websites.
+
 ## Interactive Design Elements
 
 #### Menu
@@ -299,47 +335,11 @@ Thank you page is shown after the sign up form is completed
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/5f6f39e2-936f-4e37-a085-9dc617a1f25d)
 
+Custom 404.html
 
-## Wireframes
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/bbd3acdd-edde-4763-8380-782624b8e423)
 
-- Cover page
 
-![cover page](wireframes/index/Index-wireframe.jpg)
-
-- Home page
-
-![cover page](wireframes/home/Home-wireframe.jpg)
-
-- Contact us page
-
-![cover page](wireframes/contact/Contact-us-wireframe.jpg)
-
-- Sign up page
-
-![cover page](wireframes/signup/Sign-up-wireframe.jpg)
-
-- Thank you page
-
-*****
-
-- Custom 404 error page
-
-*****
-
-## Features
-
-My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the websites that offer the deals/packages. They are often further made difficult by bad fonts and an overload of information. They are not made for responsive devices. Users are not able to make or sustain any contact with the travel agency. Also there was an inability to communicate problems and generally navigation was hard. 
-
-To combat this I have focused my attention on certain aspects to eleviate these problems, namely:
-- An easy and simple to use menu, 3 of the most important pages are located at the top. (homepage, contact us, sign up)
-- easy to read, consistant and professional font throughout the website.
-- large and easy to navigate submenu located on the homepage. This is made using universally recognised icons.
-- a minimalistic style to combat the convaluted space that is a travel homepage. This was made consistant throughout the website.
-- a contact us/customer service form, this was made for both feedback and help.
-- sustained contact can be made via the sign-up form. Users will receive regular emails from discover france.
-- the website can be accessed easily on a mobile or tablet device, keeping the minimalistic style on both these devices.
-
-I have tried my utmost best to address user issues regarding travel websites.
 
 ## Implemented features
 
@@ -386,7 +386,9 @@ I did consider navbar being fixed at top when scrolling but decided this may con
 *User information* - Input fields are all made mandatory to fill if the user is using the form.
 
 #### Custom 404 error page
-A simple error message with redirection to the homepage.
+A simple error message with redirection to the homepage and contacts us page.
+
+
 
 ## Future features
 
@@ -465,25 +467,45 @@ Hoping you understand the struggle!
 ## Testing
 
 
-### Validation
+#### Validation
 
-#### CSS Validation
+**CSS Validation**
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/fa3b6062-3d2d-469b-8988-8efb24f980ea)
 
-#### HTML Validation
+**HTML Validation**
 
 - index.html
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/84304e50-7483-496e-abf1-3a9954d680bf)
+
   
 - home.html
 
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/bcbd0ff2-0505-406e-ac60-6f21cbab06a0)
+
+
 - contactus.html
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/aa3473e1-fe64-4209-a88d-3bba9b0bdfe1)
+
   
 - signup.html
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/f0910c4c-6c45-44df-8034-7f35db2621c9)
+
   
 - Thankyou.html
-  
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/8338e850-b739-4613-8bcf-419a945580c2)
+
+
 - 404.html
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/2488fdea-c938-4531-a768-ca876369f47d)
+
+## Accessibility Testing
+
 
 ## Technologies used
 
@@ -549,6 +571,10 @@ Hoping you understand the struggle!
 - https://fonts.google.com/
 - https://fonts.google.com/icons
 
+#### Icons
+
+- https://fontawesome.com/v4/icons/
+
 #### All images were taken from;
 
 - www.pexels.com - images on the website.
@@ -561,15 +587,18 @@ Hoping you understand the struggle!
 - https://www.w3schools.com/
 
 
-
-
-
-
-
-
-
-
 ## Acknowledgements
+
+- CodeInstitute template
+- **Malia Havlicek - mentor**
+- Chrome Developer Tools
+- https://www.w3schools.com/
+- https://slack.com/
+- https://ui.dev/amiresponsive
+- https://jigsaw.w3.org/css-validator/
+- https://validator.w3.org/
+- Lighthouse
+- Windows screen reader
 
 
 
