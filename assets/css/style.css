@@ -490,6 +490,23 @@ button[type="submit"] {
     padding: 35px 0;
 }
 
+.footer-content a{
+    font-family: "oswald", sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.footer-content a:hover{
+    font-family: "oswald", sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    text-decoration: none;
+    color: #e90000;
+} 
+
+
 .footer-about{
     font-family: "oswald", sans-serif;
     font-weight: 400;
@@ -501,11 +518,6 @@ button[type="submit"] {
     font-family: "oswald", sans-serif;
     font-weight: 300;
     color: #fafafa;
-}
-
-button[type="button"] {
-    font-family: "oswald", sans-serif;
-    font-weight: 400;
 }
 
 .bottom-bar{
@@ -805,6 +817,4 @@ button[type="button"] {
     }
     
 }
-
-
 
