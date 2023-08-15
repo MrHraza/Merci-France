@@ -455,7 +455,7 @@ A simple error message with redirection to the homepage and contacts us page.
 
 I realise and apologise for the defiencey in commits in this project. I have had many issues first with codeanywhere - not being able to link up. I sought out help but it was taking up my coding time. As I am in full-time employment, I don't have much time to code when I return from a 8-hour shift. Thus I did not have the time to waste fiddling with this issue. 
 
-I was shown to gitpod where I encountered a second issue of not being able to open my code in the browser - kept getting an error message. I downloaded Visual Studio on desktop and whenever I completed a large enough section/page of code I copied and pasted the entire code in gitpod browser and committed it. 
+I was shown to gitpod where I encountered a second issue of not being able to open my code in the browser - kept getting an error message. I downloaded Visual Studio on desktop and whenever I completed a large enough section/page of code I copied and pasted the entire code in gitpod browser and committed it. Furthermore I completed my readme on github, and coded my website on visual studio, coding on two different places created branches. I was then required to merge these branches. 
 
 I acknowledge that this isn't the way to do things, and having contemplating leaving the course because of the frustration it caused. I decided to sidestep issues for now and get the project done and meet the deadline.
 
@@ -466,8 +466,7 @@ Hoping you understand the struggle!
 
 ## Testing
 
-
-#### Validation
+### Validation
 
 **CSS Validation**
 
@@ -504,8 +503,114 @@ Hoping you understand the struggle!
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/2488fdea-c938-4531-a768-ca876369f47d)
 
+
+### Tested All pages 
+
+**Desktop**
+
+| Aspect        | Result         | Comment  |
+| ------------- |:-------------:| -----:|
+| Webpages load | Yes |  |
+| Layout appearances are correct | Yes |  |
+| Scroll works | Yes |  |
+| Logo link works | Yes |  |
+| Java element works | Yes |  |
+| All menu links work | Yes |  |
+| Hover features work | Yes |  |
+| Buttons work | Yes |  |
+| Forms work | Yes |  |
+| Footer links work | Yes |  |
+
+**Mobile**
+
+| Aspect        | Result         | Comment  |
+| ------------- |:-------------:| :----- |
+| Webpages load | Yes |  |
+| Layout appearances are correct | No | On small devices there is a gap visible at the bottom of the index page |
+| Scroll works | Yes |  |
+| Logo link works | Yes |  |
+| Java element works | Yes |  |
+| All menu links work | Yes |  |
+| Hover features work | no | not coded for small/tablet devices |
+| Buttons work | Yes |  |
+| Forms work | Yes |  |
+| Footer links work | Yes |  |
+
+
 ## Accessibility Testing
 
+#### Colour contrast accessibility testing
+
+- home.html
+
+I chose to test this page because it has the three main colours of the website red, blue and white.
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/8e813ebb-7643-4e2c-a6e9-434973bbb4cf)
+
+
+#### Lighthouse
+ (1 - desktop ,  2 - Mobile)
+
+ 
+- Index.html 
+
+1) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/48ce46bd-2b76-4206-91d4-f0df6bcbf398)
+2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/699e0298-2841-4c3b-ab4a-66feb7385b79)
+
+- Home.html
+
+1) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/6ddd3125-7dcc-489d-833f-4fd0f9335c49)
+2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/502a7db5-f57b-412b-883d-7d4b6e6afb07)
+
+
+- Contactus.html
+
+1) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/cb6a2e2e-8a34-4b09-b289-f4f7ee8e932c)
+2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/49b3451c-3148-4914-89de-093f12e09dc4)
+
+- Signup.html
+  
+1) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/6be36adc-482d-4151-bd55-b8bd19662938)
+2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/108691e3-9b8d-45da-b8ee-b3e5efb1d42e)
+
+- Thankyou.html
+
+1) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/df297851-64f8-4a66-9613-301b72fad66e)
+2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/a6a2dbd5-3292-44b1-a96b-8a799ba03f8d)
+
+
+## Examples of Responsive design
+
+- Iphone SE
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/9b28db5e-1afe-44b2-b97d-ced124049934)
+
+note the menu and logo are designed to be left aligned **see code**
+
+
+- Samsung Galaxy S20
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/354e2d4b-5309-4863-8888-05c66044b996)
+
+
+- Samsung Galaxy A51/A71
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/a2f02287-1d90-4249-8ba2-973212d91946)
+
+
+- Ipad Mini
+
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/d77ebd12-54a2-43d5-b41a-272f1db38c97)
+
+
+
+## Defects list
+
+- Layout issues on small devices ( I tried very hard to sort this issue, unfortunately I ran out of time. This remains unresolved. )
+
+## Outstanding defects
+
+- On small screen devices the index page does not spread over 100% viewport height.
 
 ## Technologies used
 
