@@ -28,11 +28,34 @@ A wonderfully beautiful and popular travel destination with a rich cultural heri
 The powerful concoction of history, culture, art, food, landscapes, and experiences makes France an irresistible destination for travelers seeking a mix of adventure, relaxation, and immersion in a captivating culture.
 
 ## Table of Contents
-🚀 **merit & beyond**
 
-Generate after readme is complete by copying and pasting your readme from this point & below into this tool:
-- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/)
-**NOTE:** It does have some bugs if you have dashes or trailing spaces in your headers
+- [Project Overview](#project-overview)
+- [Live Site](#live-site)
+- [Repository](#repository)
+- [Author](#author)
+- [Target Audience](#target-audience)
+- [Project Goals](#project-goals)
+- [User Stories](#user-stories)
+- [Website owner](#website-owner)
+- [Developer](#developer)
+- [Design choices](#design-choices)
+- [Wireframes](#wireframes)
+- [Features](#features)
+- [Interactive Design Elements](#interactive-design-elements)
+- [Implemented features](#implemented-features)
+- [Future features](#future-features)
+- [Version Control](#version-control)
+- [Testing](#testing)
+- [Accessibility Testing](#accessibility-testing)
+- [Examples of Responsive design](#examples-of-responsive-design)
+- [Defects list](#defects-list)
+- [Outstanding defects](#outstanding-defects)
+- [Technologies used](#technologies-used)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Content and Media](#content-and-media)
+- [Acknowledgements](#acknowledgements)
+
 
 
 ## Project Overview
