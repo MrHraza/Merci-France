@@ -212,7 +212,8 @@ The images used across the website are not random images. They are all purposefu
 #### Animations and Transitions
 On my cover page Index.html, I have used a carousel, a user-friendly element, to increase visual appeal. It includes arrows either side of the images, allowing users to navigate forward or backward through the carousel at their own pace.
 
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/718beb51-66d0-42ed-a622-2a4c66ef8710)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/d9f78d86-392d-4cf8-a5f2-43932dd2dd4b)
+
 
 #### Site Structure
 I have opted for a multiple-page website over a single-page site for a few reasons. 
@@ -244,19 +245,16 @@ All in all I favoured a multiple-page website as this is more practical for my a
 
 ![cover page](wireframes/signup/Sign-up-wireframe.jpg)
 
-- Thank you page
+Other pages on the website *without* a wireframe; Thankyou.html, 404.html. These two pages do not have a wireframe as they have a simple, minimal and expected design with all text located in one central position. 
 
-*****
+Artculture.html - this is the only page from the submenu, located on the homepage, that has been created. It doesn't have a wireframe because it is an example webpage.
 
-- Custom 404 error page
-
-*****
 
 ## Features
 
 My understanding from the user stories was that travelling as a whole is stressful and made more difficult by the websites that offer the deals/packages. They are often further made difficult by bad fonts and an overload of information. They are not made for responsive devices. Users are not able to make or sustain any contact with the travel agency. Also there was an inability to communicate problems and generally navigation was hard. 
 
-To combat this I have focused my attention on certain aspects to eleviate these problems, namely:
+**To combat this I have focused my attention on certain aspects to eleviate these problems, namely:**
 - An easy and simple to use menu, 3 of the most important pages are located at the top. (homepage, contact us, sign up)
 - easy to read, consistant and professional font throughout the website.
 - large and easy to navigate submenu located on the homepage. This is made using universally recognised icons.
@@ -279,15 +277,17 @@ If a user then hovers over another page in the menu, then this will also tempora
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/5258c2ae-4475-4780-ade1-9567c56959d8)
 
 #### Buttons
-All buttons across the website are interactive, they invert colours when the user hovers over them (see images before & after)
+All buttons across the website are interactive, they invert colours when the user hovers over them (see example images before & after)
 
 *before*
 
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/dc57d4d1-19c8-46b7-b7a6-4745407e6ca1)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/23ab1bd9-cde9-4a3f-a22d-2a6f091a3069)
+
 
 *after*
 
-![image](https://github.com/MrHraza/Merci-France/assets/136586198/2e3eb17f-ea1d-4b10-8650-256e04961247)
+![image](https://github.com/MrHraza/Merci-France/assets/136586198/4f4a8c6d-7cf3-4a13-a90c-f77c4290e181)
+
 
 #### Social media icons
 Social media icons, facebook, twitter and instagram are all hyperlinked to their respective websites and when the user hovers over them they highlight. 
@@ -295,8 +295,8 @@ In the screenshot twitter has been hightlighted as the mouse hovers over the ico
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/0e9d5c1b-41f4-431b-8e17-ce59530e9867)
 
-#### Javascript Carousel
-I have included in my website a carousel which has arrows allowing users to scroll through images themselves, if you hover over the arrow(left or right), the arrow highlights in white, whilst the other arrow remains a dull grey. ((see image). Right, is white as the user hovers over it whilst the other arrow remains dull grey, left)
+#### Carousel
+I have included in my website a carousel which has arrows allowing users to scroll through images themselves, if you hover over the arrow(left or right), the arrow highlights in white, whilst the other arrow remains a dull grey. ((see image). Right, is white as the user hovers over it whilst the other arrow remains dull grey, left)  
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/599e78c6-4018-4d18-b991-858a32d215f0)
 
@@ -358,6 +358,9 @@ I did consider navbar being fixed at top when scrolling but decided this may con
 #### Cover page (index.html)
 
 *Capture the attention of my audience* - I chose to use this page as an entrance to my website. It was made simple with a carousel of captivating images and a simple message and explore button in the footer.
+
+**Note**
+By design the cover page is not meant to be a page you can visit whilst browsing on the website. It is the initial page to attract attention. It only contains a few images and a button linking to the homepage.
 
 #### Homepage
 
@@ -617,7 +620,7 @@ note the menu and logo are designed to be left aligned **see code**
 #### Programming Languages
 - CSS 
 - HTML 
-- JS
+- *JS >>> I have made mention of this here because the carousel located on the homepage is Javascript, however there isn't code I can test or validate. It was a builtin feature of bootstrap. (SEE CODE)*
 - Markdown
 
 #### Frameworks and Extensions
@@ -628,9 +631,11 @@ note the menu and logo are designed to be left aligned **see code**
 
 #### Tools
 - Github
+- Gitpod
 - Visual Studio
 - Pen and paper
-- markdown table of contents generator
+- Internet
+- Markdown table of contents generator
 - Favicon
 
 ## Deployment
