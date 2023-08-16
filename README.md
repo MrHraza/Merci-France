@@ -1,5 +1,7 @@
 
-![french flag](assets/favicon/android-chrome-192x192.png)
+<p align="center"><img src="https://github.com/MrHraza/Merci-France/blob/main/assets/favicon/android-chrome-512x512.png"/></p>
+
+<br>
 
 # Discover France
 
@@ -26,6 +28,8 @@ A wonderfully beautiful and popular travel destination with a rich cultural heri
 - Romantic Ambiance: France is often ass-ociated with romance, making it a top choice for honeymooners and couples seeking a romantic getaway.
 
 The powerful concoction of history, culture, art, food, landscapes, and experiences makes France an irresistible destination for travelers seeking a mix of adventure, relaxation, and immersion in a captivating culture.
+
+<br>
 
 ## Table of Contents
 
@@ -56,7 +60,7 @@ The powerful concoction of history, culture, art, food, landscapes, and experien
 - [Content and Media](#content-and-media)
 - [Acknowledgements](#acknowledgements)
 
-
+<br>
 
 ## Project Overview
 
@@ -101,18 +105,25 @@ Embark on a mesmerizing adventure of a lifetime with Discover France - a celebra
 
 Start your journey today at https://mrhraza.github.io/Merci-France/index.html and be enchanted by the wonders that await you!
 
+<br>
+
 ## Live Site
 
 - https://mrhraza.github.io/Merci-France/index.html
+
+<br>
 
 ## Repository
 
 - https://github.com/MrHraza/Merci-France
 
+<br>
+
 ## Author
 
 Developer  -  *Husnain Raza*
 
+<br>
 
 ## Target Audience
 
@@ -138,6 +149,8 @@ The target audience for my website, 'Discover France' would typically be individ
 
 And lastly, Event and Festival Attendees: Those who want to experience and participate in cultural events, festivals, and celebrations or sporting events taking place in France.
 
+<br>
+
 ## Project Goals
 
 As a tourist website, are goals are to provide valuable information, inspire travelers, and facilitate their journey to France. Our key goals are to:
@@ -151,6 +164,8 @@ As a tourist website, are goals are to provide valuable information, inspire tra
 - Encourage Interaction and Feedback: Create opportunities for visitors to interact with discover france website, such as leaving feedback to improve the user experience and address any concerns.
 
 - Drive Engagement on Social Media: Integrate social media channels such as facebook, instagram and twitter.
+
+<br>
 
 ## User Stories
 
@@ -181,15 +196,21 @@ A mobile-friendly design would ensure that all the content, images, and navigati
 
 In addition to a mobile-responsive layout, I would appreciate the option to sign up for a newsletter or receive regular email updates, keeping me informed about all the latest offers and deals. Having the most up-to-date information at my fingertips would be incredibly helpful in making well-informed decisions about my travel plans.
 
+<br>
+
 ## Website owner
 
 I want to be able to provide a simple and easy to use travel website, that has sufficient information for the layman to easily book an unforgettable trip to france. They should not be overloaded with information, and be able to navigate to the various areas of the website effortlessly. There should be a navigation system pleasing to the eye and easy enough for non-tech-literate individual to use. 
 
 Users should be able to contact the travel team quickly through various methods. Users should also be able to access our website on a moblie or tablet device. They should receive a 5-star service, from home to destination with the website providing and promoting saftey and security through hospitable travel packages and travel guides and tips. Travellers should also be able to reach us on social media platforms. A method of keeping customers up-to date on our latest travel offers should also be available.
 
+<br>
+
 ## Developer
 
 As a Developer I want to push myself and demonstrate my ability in coding and also wish to learn about accessiblity in regards to programming, so that I am able to create websites that have the furthest reach.
+
+<br>
 
 ## Design choices
 
@@ -250,6 +271,8 @@ Although there are good advantages for a multiple-page website it does not come 
 
 All in all I favoured a multiple-page website as this is more practical for my audience/users. 
 
+<br>
+
 
 ## Wireframes
 
@@ -273,6 +296,7 @@ Other pages on the website *without* a wireframe; Thankyou.html, 404.html. These
 
 Artculture.html - this is the only page from the submenu, located on the homepage, that has been created. It doesn't have a wireframe because it is an example webpage.
 
+<br>
 
 ## Features
 
@@ -288,6 +312,8 @@ My understanding from the user stories was that travelling as a whole is stressf
 - the website can be accessed easily on a mobile or tablet device, keeping the minimalistic style on both these devices.
 
 I have tried my utmost best to address user issues regarding travel websites.
+
+<br>
 
 ## Interactive Design Elements
 
@@ -363,7 +389,7 @@ Custom 404.html
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/bbd3acdd-edde-4763-8380-782624b8e423)
 
-
+<br>
 
 ## Implemented features
 
@@ -415,7 +441,7 @@ By design the cover page is not meant to be a page you can visit whilst browsing
 #### Custom 404 error page
 A simple error message with redirection to the homepage and contacts us page.
 
-
+<br>
 
 ## Future features
 
@@ -478,6 +504,8 @@ A simple error message with redirection to the homepage and contacts us page.
 
 *I firmly believe that the future of travel websites lies in innovation and meeting the evolving needs of travelers. These future features can revolutionize the company Discover france and travel as a whole, providing unique and personalized experiences for users seeking to explore france **and by extention, the world**.*
 
+<br>
+
 ## Version Control
 
 I realise and apologise for the defiencey in commits in this project. I have had many issues first with codeanywhere - not being able to link up. I sought out help but it was taking up my coding time. As I am in full-time employment, I don't have much time to code when I return from a 8-hour shift. Thus I did not have the time to waste fiddling with this issue. 
@@ -490,6 +518,7 @@ In future projects, I intend to give time to resolve the issue and I will commit
 
 Hoping you understand the struggle!
 
+<br>
 
 ## Testing
 
@@ -563,6 +592,7 @@ Hoping you understand the struggle!
 | Forms work | Yes |  |
 | Footer links work | Yes |  |
 
+<br>
 
 ## Accessibility Testing
 
@@ -606,6 +636,8 @@ I chose to test this page because it has the three main colours of the website r
 2) ![image](https://github.com/MrHraza/Merci-France/assets/136586198/a6a2dbd5-3292-44b1-a96b-8a799ba03f8d)
 
 
+<br>
+
 ## Examples of Responsive design
 
 - Iphone SE
@@ -629,15 +661,19 @@ note the menu and logo are designed to be left aligned **see code**
 
 ![image](https://github.com/MrHraza/Merci-France/assets/136586198/d77ebd12-54a2-43d5-b41a-272f1db38c97)
 
-
+<br>
 
 ## Defects list
 
 - Layout issues on small devices ( I tried very hard to sort this issue, unfortunately I ran out of time. This remains unresolved. )
 
+<br>
+
 ## Outstanding defects
 
 - On small screen devices the index page does not spread over 100% viewport height.
+
+<br>
 
 ## Technologies used
 
@@ -661,6 +697,8 @@ note the menu and logo are designed to be left aligned **see code**
 - Internet
 - Markdown table of contents generator
 - Favicon
+
+<br>
 
 ## Deployment
 
@@ -687,7 +725,7 @@ note the menu and logo are designed to be left aligned **see code**
 4. Save and deploy options are then available to click.
 5. You can find a link to your deployed website through 'Settings > Pages' or by clicking 'Environments' on the right-hand side of your repository page. 
 
-
+<br>
 
 ## Credits
 
@@ -695,6 +733,8 @@ note the menu and logo are designed to be left aligned **see code**
 - Code Institutes Love Running project
 - Code Institutes Resume project
 - Code Institutes Whiskey Drop project
+
+<br>
 
 ## Content and Media
 
@@ -720,6 +760,7 @@ note the menu and logo are designed to be left aligned **see code**
 - Code Institutes Love Running project for the navigation bar
 - https://www.w3schools.com/
 
+<br>
 
 ## Acknowledgements
 
