@@ -27,6 +27,13 @@ A wonderfully beautiful and popular travel destination with a rich cultural heri
 
 The powerful concoction of history, culture, art, food, landscapes, and experiences makes France an irresistible destination for travelers seeking a mix of adventure, relaxation, and immersion in a captivating culture.
 
+## Table of Contents
+🚀 **merit & beyond**
+
+Generate after readme is complete by copying and pasting your readme from this point & below into this tool:
+- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/)
+**NOTE:** It does have some bugs if you have dashes or trailing spaces in your headers
+
 
 ## Project Overview
 
@@ -83,12 +90,6 @@ Start your journey today at https://mrhraza.github.io/Merci-France/index.html an
 
 Developer  -  *Husnain Raza*
 
-## Table of Contents
-🚀 **merit & beyond**
-
-Generate after readme is complete by copying and pasting your readme from this point & below into this tool:
-- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/)
-**NOTE:** It does have some bugs if you have dashes or trailing spaces in your headers
 
 ## Target Audience
 
